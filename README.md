@@ -1,4 +1,4 @@
-# FHIRed_Up
+# FHIRed Up
 
 ## Inspiration
 
